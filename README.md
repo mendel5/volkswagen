@@ -133,11 +133,12 @@ System information:
 Time stamp: 19m49s
 
 ### Example 6
-likely ID.4
+likely Volkswagen ID.4
 https://www.youtube.com/watch?v=x2Kq8qcVEwU , VW Id.3 and Id.4 - Me2 software explained. By: Battery Life. Time stamp: 2m39s.
 
 ### Example 7
-Placeholder
+Volkswagen ID.3
+https://www.youtube.com/watch?v=8B3Lj4EU7_I , UPDATE 2.4 aufspielen - Abenteuer VW ID.3. By: Schräg. Time stamps: 1m12s, 6m01s.
 
 ## How to get over-the-air updates (outdated)
 Requirements for over-the-air (OTA) updates in Volkswgen ID vehicles:
