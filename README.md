@@ -4,19 +4,19 @@ Information about the software and software updates of the Volkswagen ID. series
 ## Links
 - https://www.meinid.com/wiki/lexicon/8-software-versionen/
 
-## Things to consider
-- When does the 12V battery need to be replaced/upgraded? (for which update?) --> Bei der Installation von ID. Software 2.4 wird die Batterie in der Werkstatt getauscht
-  - https://www.electrive.net/2022/04/07/vw-ruft-id-3-und-id-4-in-die-werkstatt-fuer-software-updates-und-eine-neue-12-v-batterie/
-  - https://www.auto-motor-und-sport.de/tech-zukunft/werkstatt/vw-id3-id4-freiwillige-serviceaktion-software-2-punkt-4-neue-12v-batterie/
-  - https://www.meinid.com/thread/3472-update-2-4-und-neue-12-v-batterie/
-  - https://www.meinid.com/wiki/entry/11-2-4/?synonym=103
-
 ## How to get over-the-air updates
 Requirements for over-the-air (OTA) updates in Volkswgen ID vehicles:
 - Have an ID car
 - Latest ID software: 2.1 (0792)
 - Connected to We Connect ID, connected to the app
 - Source: https://www.youtube.com/watch?v=3f7t9XpjJmY , VW Id.3 & Id.4 Over The Air Update 2.3 - Everything you need to know. By: Battery Life. Time stamp: 0m40s.
+
+## 12V battery replacement
+- When does the 12V battery need to be replaced/upgraded? (for which update?) --> The 12V battery will be replaced before the installation of ID. Software 2.4 by a service technician in an auto repair shop
+  - https://www.electrive.net/2022/04/07/vw-ruft-id-3-und-id-4-in-die-werkstatt-fuer-software-updates-und-eine-neue-12-v-batterie/
+  - https://www.auto-motor-und-sport.de/tech-zukunft/werkstatt/vw-id3-id4-freiwillige-serviceaktion-software-2-punkt-4-neue-12v-batterie/
+  - https://www.meinid.com/thread/3472-update-2-4-und-neue-12-v-batterie/
+  - https://www.meinid.com/wiki/entry/11-2-4/?synonym=103
 
 ## Software version examples
 
