@@ -169,15 +169,17 @@ Time stamp: 1m12s
 Time stamp:6m01s
 
 ### Example 7.3
-- ID. Software:
-- Teilenummer Gerät:
-- Hardware:
-- Software:
-- ABT Hardware:
-- ABT Software:
-- Navigationsdatenbank:
+- ID. Software: 2.3.0
+- Teilenummer Gerät: 10A035816G
+- Hardware: H20
+- Software: 0912
+- ABT Hardware: H47
+- ABT Software: 3078
+- Navigationsdatenbank: 22.7
+- Medien-Codec: 3.1.4
+- Radiodatenbank: 1.30.22
 
-Time stamp:
+Time stamp: 10m44s
 
 ### Example 8
 Volkswagen ID.3
