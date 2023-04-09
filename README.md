@@ -17,7 +17,7 @@ Systeminformationen:
 - ABT Software: 2092
 - Navigationsdatenbank: 22.6
 
-Source: https://www.youtube.com/watch?v=PtHAnPCPwho , VW ID.4 Softwareupdate von ID 2.1 auf 2.4 - das lief ja problemlos und superfix in der Werkstatt!. , von tofi.lectric. Time stamp: 5m15s
+Source: https://www.youtube.com/watch?v=PtHAnPCPwho , VW ID.4 Softwareupdate von ID 2.1 auf 2.4 - das lief ja problemlos und superfix in der Werkstatt. By: tofi.lectric. Time stamp: 5m15s.
 
 ### Example 2
 Volkswagen ID. Buzz
@@ -33,7 +33,7 @@ Systeminformationen:
 - Navigationsdatenbank: 22.10
 - Medien-Codec: (nicht sichtbar)
 
-Source: https://www.youtube.com/watch?v=3zKJzKFoWjc , VW ID. Buzz Infotainment System Review, Bedienung, Version 3.2.0. Tipps, Handhabung, Einstellung. , von Schwaben - Checker. Time stamp: 19m29s
+Source: https://www.youtube.com/watch?v=3zKJzKFoWjc , VW ID. Buzz Infotainment System Review, Bedienung, Version 3.2.0. Tipps, Handhabung, Einstellung. By: Schwaben - Checker. Time stamp: 19m29s.
 
 ### Example 3
 Volkswagen ID.5 GTX
@@ -48,3 +48,5 @@ System information:
 - Display unit/control panel software: 6085
 - Navigation database: 22.3
 - Media Codec: (not visible)
+
+Source: https://www.youtube.com/watch?v=V0l1D0W39OA , First Look at VW Id Software 3.1 - It is AWESOME. By: Battery Life. Time stamp: 0m45s.
