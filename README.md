@@ -4,7 +4,7 @@ Information about the software and software updates of the Volkswagen ID. series
 ## Links
 - https://www.meinid.com/wiki/lexicon/8-software-versionen/
 
-## How to get over-the-air updates
+## How to get over-the-air updates (outdated)
 Requirements for over-the-air (OTA) updates in Volkswgen ID vehicles:
 - Have an ID car
 - Latest ID software: 2.1 (0792)
