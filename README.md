@@ -4,13 +4,6 @@ Information about the software and software updates of the Volkswagen ID. series
 ## Links
 - https://www.meinid.com/wiki/lexicon/8-software-versionen/
 
-## How to get over-the-air updates (outdated)
-Requirements for over-the-air (OTA) updates in Volkswgen ID vehicles:
-- Have an ID car
-- Latest ID software: 2.1 (0792)
-- Connected to We Connect ID, connected to the app
-- Source: https://www.youtube.com/watch?v=3f7t9XpjJmY , VW Id.3 & Id.4 Over The Air Update 2.3 - Everything you need to know. By: Battery Life. Time stamp: 0m40s.
-
 ## 12V battery replacement
 - When does the 12V battery need to be replaced/upgraded? (for which update?) --> The 12V battery will be replaced before the installation of ID. Software 2.4 by a service technician in an auto repair shop
   - https://www.electrive.net/2022/04/07/vw-ruft-id-3-und-id-4-in-die-werkstatt-fuer-software-updates-und-eine-neue-12-v-batterie/
@@ -143,3 +136,10 @@ Time stamp: 19m49s
 https://www.youtube.com/watch?v=x2Kq8qcVEwU
 2m39s
 likely ID.4
+
+## How to get over-the-air updates (outdated)
+Requirements for over-the-air (OTA) updates in Volkswgen ID vehicles:
+- Have an ID car
+- Latest ID software: 2.1 (0792)
+- Connected to We Connect ID, connected to the app
+- Source: https://www.youtube.com/watch?v=3f7t9XpjJmY , VW Id.3 & Id.4 Over The Air Update 2.3 - Everything you need to know. By: Battery Life. Time stamp: 0m40s.
