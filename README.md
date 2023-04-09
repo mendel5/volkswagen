@@ -4,7 +4,14 @@ Information about the software and software updates of the Volkswagen ID. series
 ## Links
 - https://www.meinid.com/wiki/lexicon/8-software-versionen/
 
-## Examples
+## How to get over-the-air updates
+Requirements for over-the-air (OTA) updates in Volkswgen ID vehicles:
+- Have an ID car
+- Latest ID software: 2.1 (0792)
+- Connected to We Connect ID, connected to the app
+- Source: https://www.youtube.com/watch?v=3f7t9XpjJmY , VW Id.3 & Id.4 Over The Air Update 2.3 - Everything you need to know. By: Battery Life. Time stamp: 0m40s.
+
+## Software version examples
 ### Example 1
 Volkswagen ID.4
 
