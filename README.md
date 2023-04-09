@@ -150,12 +150,34 @@ https://www.youtube.com/watch?v=8B3Lj4EU7_I , UPDATE 2.4 aufspielen - Abenteuer 
 - ABT Hardware: H47
 - ABT Software: 3078
 - Navigationsdatenbank: 22.7
+- Medien-Codec: 3.1.4
+- Radiodatenbank: 1.30.22
+
+Time stamp: 1m12s
 
 ### Example 7.2
+- ID. Software: 2.3.0
+- Teilenummer Gerät: 10A035816G
+- Hardware: H20
+- Software: 0912
+- ABT Hardware: H47
+- ABT Software: 3078
+- Navigationsdatenbank: 22.7
+- Medien-Codec: 3.1.4
+- Radiodatenbank: 1.30.22
 
+Time stamp:6m01s
 
 ### Example 7.3
+- ID. Software:
+- Teilenummer Gerät:
+- Hardware:
+- Software:
+- ABT Hardware:
+- ABT Software:
+- Navigationsdatenbank:
 
+Time stamp:
 
 ### Example 8
 Volkswagen ID.3
