@@ -61,3 +61,19 @@ System information:
 - Media Codec: (not visible)
 
 Source: https://www.youtube.com/watch?v=V0l1D0W39OA , First Look at VW Id Software 3.1 - It is AWESOME. By: Battery Life. Time stamp: 0m45s.
+
+### Example 4
+Volkswagen ID.3
+
+ID. Software: 2.0 (not visible)
+
+System information:
+- Device part number: 10A035820B
+- Hardware: H20
+- Software: 0783
+- Display unit/control panel hardware: H41
+- Display unit/control panel software: 3078
+- Navigation database: 20.10
+- Media Codec: (not visible)
+
+Source: https://www.youtube.com/watch?v=SaWSO7BqDF8
