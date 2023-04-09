@@ -76,4 +76,4 @@ System information:
 - Navigation database: 20.10
 - Media Codec: (not visible)
 
-Source: https://www.youtube.com/watch?v=SaWSO7BqDF8
+Source: https://www.youtube.com/watch?v=SaWSO7BqDF8 , VW Id.3 - Me 2.0 (0783) - all the details to the big update. By: Battery Life. Time stamp: 1m37s.
