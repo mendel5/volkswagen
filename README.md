@@ -11,6 +11,7 @@ Information about the software and software updates of the Volkswagen ID. series
   - https://www.auto-motor-und-sport.de/tech-zukunft/werkstatt/vw-id3-id4-freiwillige-serviceaktion-software-2-punkt-4-neue-12v-batterie/
   - https://www.meinid.com/thread/3472-update-2-4-und-neue-12-v-batterie/
   - https://www.meinid.com/wiki/entry/11-2-4/?synonym=103
+  - https://www.youtube.com/watch?v=TtrKmMGawrA , VW ID Software Update 3.0: das beste Update ist immer das nächste. By: Robin TV. Time stamp: 16m57s. (Update auf 2.4).
 
 ## Software version examples
 
