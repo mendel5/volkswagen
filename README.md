@@ -77,3 +77,61 @@ System information:
 - Media Codec: (not visible)
 
 Source: https://www.youtube.com/watch?v=SaWSO7BqDF8 , VW Id.3 - Me 2.0 (0783) - all the details to the big update. By: Battery Life. Time stamp: 1m37s.
+
+### Example 5
+Volkswagen ID.3
+
+Source: https://www.youtube.com/watch?v=OFhQviNxYfo , My VW Id.3 got Over The Air Update OTA 2.3 (0910) + Infotainment system tour. By: Battery Life. Time stamps are below.
+
+#### Example 5.1
+System information:
+- Device part number: 10A035820E
+- Hardware: H20
+- Software: 0792
+- Display unit/control panel hardware: H41
+- Display unit/control panel software: 3078
+- Navigation database: 21.5
+- Media Codec: (not visible)
+
+Time stamp: 1m57s
+
+#### Example 5.2
+System information:
+- Device part number: 10A035820E
+- Hardware: H20
+- Software: 0792
+- Display unit/control panel hardware: H41
+- Display unit/control panel software: 3078
+- Navigation database: 21.5
+- Media Codec: (not visible)
+
+Time stamp: 9m07s
+
+#### Example 5.3
+ID. Software: 2.3.0
+
+System information:
+- Device part number: 10A35820F
+- Hardware: H20
+- Software: 0910
+- Display unit/control panel hardware: H41
+- Display unit/control panel software: 3078
+- Navigation database: 21.5
+- Media Codec: (not visible)
+
+Time stamp: 12m40s
+
+#### Example 5.4
+ID. Software 2.3.0
+
+System information:
+- Device part number: 10A35820F
+- Hardware: H20
+- Software: 0910
+- Display unit/control panel hardware: H41
+- Display unit/control panel software: 3078
+- Navigation database: 21.5
+- Media Codec: (not visible)
+
+Time stamp: 19m49s
+
