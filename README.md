@@ -4,6 +4,9 @@ Information about the software and software updates of the Volkswagen ID. series
 ## Links
 - https://www.meinid.com/wiki/lexicon/8-software-versionen/
 
+## Things to consider
+- When does the 12V battery need to be replaced/upgraded? (for which update?)
+
 ## How to get over-the-air updates
 Requirements for over-the-air (OTA) updates in Volkswgen ID vehicles:
 - Have an ID car
@@ -12,6 +15,7 @@ Requirements for over-the-air (OTA) updates in Volkswgen ID vehicles:
 - Source: https://www.youtube.com/watch?v=3f7t9XpjJmY , VW Id.3 & Id.4 Over The Air Update 2.3 - Everything you need to know. By: Battery Life. Time stamp: 0m40s.
 
 ## Software version examples
+
 ### Example 1
 Volkswagen ID.4
 
