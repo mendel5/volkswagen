@@ -32,7 +32,7 @@ Source: https://www.youtube.com/watch?v=PtHAnPCPwho , VW ID.4 Softwareupdate von
 ### Example 2
 Volkswagen ID. Buzz
 
-ID. Software: 3.2.0 (nicht im Video zu sehen)
+ID. Software: 3.2.0 (nicht sichtbar)
 
 Systeminformationen:
 - Teilenummer Gerät: 10A035820J
@@ -145,6 +145,7 @@ Volkswagen ID.3
 Source: https://www.youtube.com/watch?v=8B3Lj4EU7_I , UPDATE 2.4 aufspielen - Abenteuer VW ID.3. By: Schräg. Time stamps: 1m12s, 6m01s, 10m44s.
 
 ### Example 7.1
+Systeminformationen:
 - ID. Software: 2.3.0
 - Teilenummer Gerät: 10A035816F
 - Hardware: H20
@@ -158,6 +159,7 @@ Source: https://www.youtube.com/watch?v=8B3Lj4EU7_I , UPDATE 2.4 aufspielen - Ab
 Time stamp: 1m12s
 
 ### Example 7.2
+Systeminformationen:
 - ID. Software: 2.3.0
 - Teilenummer Gerät: 10A035816G
 - Hardware: H20
@@ -171,6 +173,7 @@ Time stamp: 1m12s
 Time stamp:6m01s
 
 ### Example 7.3
+Systeminformationen:
 - ID. Software: 2.3.0
 - Teilenummer Gerät: 10A035816G
 - Hardware: H20
@@ -199,6 +202,17 @@ Source: https://www.youtube.com/watch?v=6nLxBHYoBWg , ID - Update 3 0 Teil 1 inc
 
 ### Example 9
 Volkswagen ID.4
+
+ID. Software: 3.2.0 (nicht sichtbar)
+
+Systeminformationen:
+- Teilenummer Gerät: 10A035820J
+- Hardware: H30
+- Software: 0561
+- ABT Hardware: H57
+- ABT Software: 2103
+- Navigationsdatenbank: 22.10
+- Medien-Codec: (nicht sichtbar)
 
 Source: https://www.youtube.com/watch?v=mlG6Um9wbsQ , Bauer Harms erklärt VW ID heute Softwarestand auslesen mein Stand 3.2.0. By: Bauer Harms. Time stamp: 1m22s.
 
