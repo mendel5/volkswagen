@@ -34,3 +34,17 @@ Systeminformationen:
 - Medien-Codec: (nicht sichtbar)
 
 Source: https://www.youtube.com/watch?v=3zKJzKFoWjc , VW ID. Buzz Infotainment System Review, Bedienung, Version 3.2.0. Tipps, Handhabung, Einstellung. , von Schwaben - Checker. Time stamp: 19m29s
+
+### Example 3
+Volkswagen ID.5 GTX
+
+ID. Software: 3.1.0
+
+System information:
+- Device part number: 10A035816J
+- Hardware: H30
+- Software: 0551
+- Display unit/control panel hardware: H38
+- Display unit/control panel software: 6085
+- Navigation database: 22.3
+- Media Codec: (not visible)
