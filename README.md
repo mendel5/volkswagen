@@ -17,7 +17,7 @@ Systeminformationen:
 - ABT Software: 2092
 - Navigationsdatenbank: 22.6
 
-Source: https://www.youtube.com/watch?v=PtHAnPCPwho , VW ID.4 Softwareupdate von ID 2.1 auf 2.4 - das lief ja problemlos und superfix in der Werkstatt!. , von tofi.lectric. Time stamp:
+Source: https://www.youtube.com/watch?v=PtHAnPCPwho , VW ID.4 Softwareupdate von ID 2.1 auf 2.4 - das lief ja problemlos und superfix in der Werkstatt!. , von tofi.lectric. Time stamp: 5m15s
 
 ### Example 2
 Volkswagen ID. Buzz
