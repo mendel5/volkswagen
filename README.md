@@ -110,7 +110,7 @@ Time stamp: 9m07s
 ID. Software: 2.3.0
 
 System information:
-- Device part number: 10A35820F
+- Device part number: 10A035820F
 - Hardware: H20
 - Software: 0910
 - Display unit/control panel hardware: H41
@@ -118,13 +118,13 @@ System information:
 - Navigation database: 21.5
 - Media Codec: (not visible)
 
-Time stamp: 12m40s
+Time stamp: 12m36s
 
 #### Example 5.4
 ID. Software 2.3.0
 
 System information:
-- Device part number: 10A35820F
+- Device part number: 10A035820F
 - Hardware: H20
 - Software: 0910
 - Display unit/control panel hardware: H41
@@ -135,7 +135,7 @@ System information:
 Time stamp: 19m49s
 
 ### Example 6
-likely Volkswagen ID.4
+likely Volkswagen ID.4: to-do.
 
 Source: https://www.youtube.com/watch?v=x2Kq8qcVEwU , VW Id.3 and Id.4 - Me2 software explained. By: Battery Life. Time stamp: 2m39s.
 
@@ -185,6 +185,15 @@ Time stamp: 10m44s
 
 ### Example 8
 Volkswagen ID.3
+
+Systeminformationen:
+- ID. Software: 3.0.0
+- Teilenummer Gerät: 10A035820H
+- Hardware: H20
+- Software: 0362
+- ABT Hardware: H55
+- ABT Software: 2101
+- Navigationsdatenbank: 21.11
 
 Source: https://www.youtube.com/watch?v=6nLxBHYoBWg , ID - Update 3 0 Teil 1 incl. Anmeldung. By: Informer. Time stamp: 4m17s.
 
