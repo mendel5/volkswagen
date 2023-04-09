@@ -17,5 +17,20 @@ Systeminformationen:
 - ABT Software: 2092
 - Navigationsdatenbank: 22.6
 
-Source: 
-- https://www.youtube.com/watch?v=PtHAnPCPwho, VW ID.4 Softwareupdate von ID 2.1 auf 2.4 - das lief ja problemlos und superfix in der Werkstatt!, von tofi.lectric
+Source: https://www.youtube.com/watch?v=PtHAnPCPwho , VW ID.4 Softwareupdate von ID 2.1 auf 2.4 - das lief ja problemlos und superfix in der Werkstatt!. , von tofi.lectric. Time stamp:
+
+### Example 2
+Volkswagen ID. Buzz
+
+ID. Software: 3.2.0 (nicht im Video zu sehen)
+
+Systeminformationen:
+- Teilenummer Gerät: 10A035820J
+- Hardware: H30
+- Software: 0561
+- ABT Hardware: H38
+- ABT Software: 6085
+- Navigationsdatenbank: 22.10
+- Medien-Codec: (nicht sichtbar)
+
+Source: https://www.youtube.com/watch?v=3zKJzKFoWjc , VW ID. Buzz Infotainment System Review, Bedienung, Version 3.2.0. Tipps, Handhabung, Einstellung. , von Schwaben - Checker. Time stamp: 19m29s
