@@ -4,6 +4,7 @@ Information about the software and software updates of the Volkswagen ID. series
 ## Links
 - https://www.meinid.com/wiki/lexicon/8-software-versionen/
 - https://www.youtube.com/watch?v=h0hvBcRQwhM , Volkswagen Software 3.0 - So bekommt man das Update. By: Technokratie. `TPI 2068680/4`.
+- https://lichtgriff.de/id-4-und-nur-noch-elektrisch/id-software/ , ID Software und Update Odyssee mit Happy End. (Volkswagen ID.4, von Software 2.1 auf 3.0, TPI)
 
 ## 12V battery replacement
 - When does the 12V battery need to be replaced/upgraded? (for which update?) --> The 12V battery will be replaced before the installation of ID. Software 2.4 by a service technician in an auto repair shop
