@@ -3,7 +3,6 @@ Information about the software and software updates of the Volkswagen ID. series
 
 ## Questions
 - VW Connect und VW Car-Net Unterschied?
-- 
 
 ## Links
 - https://www.meinid.com/wiki/lexicon/8-software-versionen/
