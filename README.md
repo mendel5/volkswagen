@@ -11,6 +11,7 @@ Information about the software and software updates of the Volkswagen ID. series
 
 ### New links 1
 - https://www.vw.com/en/software-update.html
+- https://www.vw.com/en/recalls.html <-- look-up tool is here
 - https://www.volkswagen.de/de/besitzer-und-service/ueber-ihr-auto/kundeninformationen/software-updates/id-software-updates.html
 - https://www.volkswagen.de/de/besitzer-und-service/ueber-ihr-auto/kundeninformationen/software-updates/id-software-updates/id-software-2-1-update.html
 - https://www.volkswagen.de/de/besitzer-und-service/ueber-ihr-auto/kundeninformationen/software-updates/id-software-updates/id-software-2-3-update.html
