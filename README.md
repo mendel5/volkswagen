@@ -237,3 +237,8 @@ Requirements for over-the-air (OTA) updates in Volkswgen ID vehicles:
 - Latest ID software: 2.1 (0792)
 - Connected to We Connect ID, connected to the app
 - Source: https://www.youtube.com/watch?v=3f7t9XpjJmY , VW Id.3 & Id.4 Over The Air Update 2.3 - Everything you need to know. By: Battery Life. Time stamp: 0m40s.
+
+## Wheels
+- Felge: aus Metall (englisch rim of a wheel)
+- Reifen: aus Gummi, enthält Luft (englisch tire, car tire)
+- Rad: Kombination aus Felge und Reifen (englisch wheel)
