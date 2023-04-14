@@ -245,3 +245,6 @@ Requirements for over-the-air (OTA) updates in Volkswgen ID vehicles:
 - Observation 1: Electric vehicles often have wheels with a larger diameter than ICE vehicles (overall wheel size).
 - Observation 2: Electric vehicles often have rims with a large diameter but thin tires. ICE vehicles often have the opposite, rims with smaller diameter and thicker tires. This is independent of wheel size.
 - https://old.reddit.com/r/electricvehicles/comments/njh1mc/why_do_evs_come_with_larger_diameter_tires/
+- https://www.youtube.com/watch?v=no-uM9NvQBU , Reifen- und Felgenbezeichnungen - Erklärung. By: KFZ-Schule.
+- https://www.youtube.com/watch?v=KMq9I2G5BBk , Reifenbezeichnung praktisch erklärt Teil 1. By: Kfz-Technik einfach erklärt.
+- https://www.youtube.com/watch?v=u9KCfwAg9O0 , Reifenbezeichnung praktisch erklärt Teil 2, Abrollumfang eines Reifens berechnen. By: Kfz-Technik einfach erklärt.
