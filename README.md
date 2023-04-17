@@ -25,7 +25,11 @@ Information about the software and software updates of the Volkswagen ID. series
 - https://www.volkswagen.de/de/konnektivitaet-und-mobilitaetsdienste/konnektivitaet/we-connect-id.html
 - https://compatibility.volkswagen.com/de/de/index.html
 - https://www.volkswagen.de/de/konnektivitaet-und-mobilitaetsdienste/konnektivitaet/we-connect-id/aktivierung.html
-- https://www.volkswagen.de/de/besitzer-und-nutzer/myvolkswagen.html
+- https://www.volkswagen.de/de/besitzer-und-nutzer/myvolkswagen.html <-- Create or login to VW ID Connect (partial)
+- https://vwid.vwgroup.io/landing-page <-- Create or login to VW ID Connect (**main**)
+- https://www.volkswagen.de/de/konnektivitaet-und-mobilitaetsdienste/we-charge.html <-- Create or login to VW ID Connect (partial)
+
+### New links 3: Activate We Connect
 - https://www.youtube.com/watch?v=0fz1kPw9gaI , VW ID3 ID4: Einrichtungsassistent, Telefon koppeln, Sender abspeichern, We Connect und mehr. By: Fahrzeugfunktionen Einfach Erklärt.
 - https://www.youtube.com/watch?v=5oTN67vK2aA , VW ID3 und ID4: Kurzvorstellung VW App, Was kann sie alles?. By: Der Familientester.
 - https://www.youtube.com/watch?v=Ze3sfe-r7pA , Volkswagen WeConnect ID App 1.26.0 für Apple iOS die Fernsteuerung für dein Auto im Review. By: elektrologisch.
