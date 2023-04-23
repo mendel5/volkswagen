@@ -261,6 +261,22 @@ Systeminformationen:
 
 Source: https://www.youtube.com/watch?v=-ZI0YsPJoN0 , Update 3 0 Restinfos Teil1 und Abschluss Teil 2. By: Informer. Time stamp: 20m36s.
 
+### Example 11
+Volkswagen ID.4
+
+ID. Software: 3.1 (not visible)
+
+Systeminformationen:
+- Teilenummer Gerät: 10A035820J
+- Hardware: H30
+- Software: 0561
+- ABT Hardware: H57
+- ABT Software: 2103
+- Navigationsdatenbank: 21.11
+- Media-Codex: (not visible)
+
+Source: https://www.youtube.com/watch?v=dWk0YLuQAhI , Volkswagen ID. Software 3.1 Review. The new software for the ID models. By: Car Tech's. Time stamp: 0m33s.
+
 ## How to get over-the-air updates (outdated)
 Requirements for over-the-air (OTA) updates in Volkswgen ID vehicles:
 - Have an ID car
