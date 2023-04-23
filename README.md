@@ -166,7 +166,16 @@ System information:
 Time stamp: 19m49s
 
 ### Example 6
-likely Volkswagen ID.4: to-do.
+Volkswagen ID.3
+
+System information:
+- Device part number: 10A035816B
+- Hardware: H20
+- Software: 0784
+- Display unit/ control panet hardware: H36
+- Display unit/ control panel software: 6071
+- Navigation database: 20.10
+- Media Codec: (not visible)
 
 Source: https://www.youtube.com/watch?v=x2Kq8qcVEwU , VW Id.3 and Id.4 - Me2 software explained. By: Battery Life. Time stamp: 2m39s.
 
