@@ -277,6 +277,21 @@ Systeminformationen:
 
 Source: https://www.youtube.com/watch?v=dWk0YLuQAhI , Volkswagen ID. Software 3.1 Review. The new software for the ID models. By: Car Tech's. Time stamp: 0m33s.
 
+### Example 12
+Volkswagen ID.4 GTX
+
+Systeminformationen:
+- ID. Software: 3.0.0 (angeblich 3.0.5)
+- Teilenummer Gerät: 10A035816H
+- Hardware: H20
+- Software: 0363
+- ABT Hardware: H37
+- ABT Software: 6082
+- Navigationsdatenbank: 22.12
+- Medien-Codec: 3.1.4
+
+Source: https://www.youtube.com/watch?v=NXncaCoah44 , Ausführliches Review der Volkswagen ID. Software 3.0 OTA in unserem VW ID.4 GTX. By: elektrologisch. Time stamp: 32m36s.
+
 ## How to get over-the-air updates (outdated)
 Requirements for over-the-air (OTA) updates in Volkswgen ID vehicles:
 - Have an ID car
