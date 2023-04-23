@@ -247,6 +247,20 @@ Systeminformationen:
 
 Source: https://www.youtube.com/watch?v=mlG6Um9wbsQ , Bauer Harms erklärt VW ID heute Softwarestand auslesen mein Stand 3.2.0. By: Bauer Harms. Time stamp: 1m22s.
 
+### Example 10
+Volkswagen ID.3 (unclear)
+
+Systeminformationen:
+- ID.Software: 3.0.0
+- Teilenummer Gerät: 10A035820H
+- Hardware: H20
+- Software: 0363
+- ABT Hardware: H55
+- ABT Software: 2101
+- Navigationsdatenbank: 22.12
+
+Source: https://www.youtube.com/watch?v=-ZI0YsPJoN0 , Update 3 0 Restinfos Teil1 und Abschluss Teil 2. By: Informer. Time stamp: 20m36s.
+
 ## How to get over-the-air updates (outdated)
 Requirements for over-the-air (OTA) updates in Volkswgen ID vehicles:
 - Have an ID car
