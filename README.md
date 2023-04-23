@@ -166,7 +166,7 @@ System information:
 Time stamp: 19m49s
 
 ### Example 6
-Volkswagen ID.3
+Volkswagen ID.4
 
 System information:
 - Device part number: 10A035816B
