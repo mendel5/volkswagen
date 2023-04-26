@@ -44,6 +44,10 @@ Information about the software and software updates of the Volkswagen ID. series
   - https://www.meinid.com/wiki/entry/11-2-4/?synonym=103
   - https://www.youtube.com/watch?v=TtrKmMGawrA , VW ID Software Update 3.0: das beste Update ist immer das nächste. By: Robin TV. Time stamp: 16m57s. (Update auf 2.4).
 
+## Plug and Charge for Volkswagen WeCharge
+- `Fahrzeuge, die den Software-Stand SW 3.1 oder höher haben, sind für die Funktion „Plug & Charge“ ab Werk bereits vorbereitet. Wir informieren, sobald diese Funktion auch für ID. Fahrzeuge mit einem Software-Stand vor SW 3.1 ab Werk zur Verfügung steht.`
+- Source: https://www.volkswagen.de/de/konnektivitaet-und-mobilitaetsdienste/we-charge.html
+
 ## Software version examples
 
 ### Example 1
