@@ -36,6 +36,10 @@ Information about the software and software updates of the Volkswagen ID. series
 - https://www.youtube.com/watch?v=Xn0hXYiBzPA , Four steps to activate your VW account and the We Connect ID. App. By: Volkswagen News.
 - https://www.youtube.com/watch?v=CLRp6aMSk4U , Volkswagen Car-Net On The Volkswagen ID.4, Volkswagen Canada. By: Owasco Volkswagen.
 
+### New links 4: Volkswagen VIN check
+- https://www.volkswagen.com.au/app/locals/owners-service/service-campaigns-recalls , Service Campaigns and Recalls
+- https://www.youtube.com/watch?v=kQEb7nDm_2o  nextnews: Rabattschlacht beginnt, VWs Software-Versagen, Laute E-Autos, THG Turbulenzen. By: nextmove.
+
 ## 12V battery replacement
 - When does the 12V battery need to be replaced/upgraded? (for which update?) --> The 12V battery will be replaced before the installation of ID. Software 2.4 by a service technician in an auto repair shop
   - https://www.electrive.net/2022/04/07/vw-ruft-id-3-und-id-4-in-die-werkstatt-fuer-software-updates-und-eine-neue-12-v-batterie/
