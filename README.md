@@ -17,6 +17,8 @@ Information about the software and software updates of the Volkswagen ID. series
 - https://www.volkswagen.de/de/besitzer-und-service/ueber-ihr-auto/kundeninformationen/software-updates/id-software-updates/id-software-2-3-update.html
 - https://www.volkswagen.de/de/besitzer-und-service/ueber-ihr-auto/kundeninformationen/software-updates/id-software-updates/id-software-2-4-update.html
 - https://www.volkswagen.de/de/besitzer-und-service/ueber-ihr-auto/kundeninformationen/software-updates/id-software-updates/id-software-3-0-update.html
+- https://www.volkswagen.de/de/besitzer-und-service/ueber-ihr-auto/kundeninformationen/software-updates/id-software-updates/id-software-3-1-update.html
+- https://www.volkswagen.de/de/besitzer-und-service/ueber-ihr-auto/kundeninformationen/software-updates/id-software-updates/id-software-3-2-update.html
 - https://www.elektroauto-news.net/elektroautos/volkswagen-software-id-fahrer-in-holschuld
 - https://www.youtube.com/watch?v=9TgPkwoRxHM , My experience with OTA update 3.0 on my VW Id.3. By: Battery Life.
 
