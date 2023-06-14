@@ -1,5 +1,5 @@
 # volkswagen
-Information about the software and software updates of the Volkswagen ID. series battery electric vehicles (BEVs, e.g. ID.3, ID.4, etc.)
+Information about the software of and software updates for the Volkswagen ID. series electric vehicles (BEVs, e.g. VW ID.3, ID.4, etc.)
 
 ## Questions
 - Difference between VW Connect and VW Car-Net?
