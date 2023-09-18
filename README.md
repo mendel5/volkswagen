@@ -41,7 +41,7 @@ Information about the software of and software updates for the Volkswagen ID. se
 
 ### Links 5: Volkswagen VIN check
 - https://www.volkswagen.com.au/app/locals/owners-service/service-campaigns-recalls , Service Campaigns and Recalls. For Europe and rest of world?. Accepts only "WV..." VINs.
-- https://www.vw.com/en/recalls.html , Recall / Service Campaign Lookup. For Americas only? Does not accept "WV..." VINs. Accepts "3VW..." VIN.
+- https://www.vw.com/en/recalls.html , Recall / Service Campaign Lookup. For Americas only? Does not accept all "WV..." VINs. Accepts "3VW..." VIN.
 - https://www.volkswagen-dubai.com/en/owners/recall-campaign.html , Do not use. Certain models produced between the years 2007 and 2014 are being recalled due to issues relating to airbags.
 - https://www.vindecoder.pl/ VIN Decoder
 - https://www.youtube.com/watch?v=kQEb7nDm_2o  nextnews: Rabattschlacht beginnt, VWs Software-Versagen, Laute E-Autos, THG Turbulenzen. By: nextmove.
