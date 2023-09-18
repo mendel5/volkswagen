@@ -41,6 +41,8 @@ Information about the software of and software updates for the Volkswagen ID. se
 
 ### Links 5: Volkswagen VIN check
 - https://www.volkswagen.com.au/app/locals/owners-service/service-campaigns-recalls , Service Campaigns and Recalls
+- https://www.vw.com/en/recalls.html
+- https://www.volkswagen-dubai.com/en/owners/recall-campaign.html
 - https://www.vindecoder.pl/ VIN Decoder
 - https://www.youtube.com/watch?v=kQEb7nDm_2o  nextnews: Rabattschlacht beginnt, VWs Software-Versagen, Laute E-Autos, THG Turbulenzen. By: nextmove.
 
