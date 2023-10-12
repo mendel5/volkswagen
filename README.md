@@ -2,7 +2,7 @@
 Information about the software of and software updates for the Volkswagen ID. series electric vehicles (BEVs, e.g. VW ID.3, ID.4, etc.)
 
 ## Questions
-- Difference between VW Connect and VW Car-Net?
+- What is the difference between VW Connect and VW Car-Net?
 
 ## Links
 ### Links 1
