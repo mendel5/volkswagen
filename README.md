@@ -5,12 +5,23 @@ Information about the software of and software updates for the Volkswagen ID. se
 - What is the difference between VW Connect and VW Car-Net?
 
 ## Links
-### Links 1
+### Links 1: Check for VW ID software updates based on the VIN
+- https://www.volkswagen.com.au/app/locals/owners-service/service-campaigns-recalls , Service Campaigns and Recalls. For Europe and rest of world?. Accepts only "WV..." VINs.
+- https://www.vw.com/en/recalls.html , Recall / Service Campaign Lookup. For Americas only? Does not accept all "WV..." VINs. Accepts "3VW..." VIN.
+- https://www.volkswagen-dubai.com/en/owners/recall-campaign.html , Do not use. Certain models produced between the years 2007 and 2014 are being recalled due to issues relating to airbags.
+- https://www.vindecoder.pl/ VIN Decoder
+- https://www.youtube.com/watch?v=kQEb7nDm_2o  nextnews: Rabattschlacht beginnt, VWs Software-Versagen, Laute E-Autos, THG Turbulenzen. By: nextmove.
+
+### Links 2: We Charge e-Routenplaner
+- https://www.volkswagen.de/de/elektrofahrzeuge/laden-und-reichweite/routenplaner.html
+- https://www.volkswagen.de/de/konnektivitaet-und-mobilitaetsdienste/we-charge.html
+
+### Links 3: Software versions
 - https://www.meinid.com/wiki/lexicon/8-software-versionen/
 - https://www.youtube.com/watch?v=h0hvBcRQwhM , Volkswagen Software 3.0 - So bekommt man das Update. By: Technokratie. `TPI 2068680/4`.
 - https://lichtgriff.de/id-4-und-nur-noch-elektrisch/id-software/ , ID Software und Update Odyssee mit Happy End. (Volkswagen ID.4, von Software 2.1 auf 3.0, TPI)
 
-### Links 2: Software updates
+### Links 4: Software updates
 - https://www.vw.com/en/software-update.html
 - https://www.vw.com/en/recalls.html <-- look-up tool is here
 - https://www.volkswagen.de/de/besitzer-und-service/ueber-ihr-auto/kundeninformationen/software-updates/id-software-updates.html
@@ -23,7 +34,7 @@ Information about the software of and software updates for the Volkswagen ID. se
 - https://www.elektroauto-news.net/elektroautos/volkswagen-software-id-fahrer-in-holschuld
 - https://www.youtube.com/watch?v=9TgPkwoRxHM , My experience with OTA update 3.0 on my VW Id.3. By: Battery Life.
 
-### Links 3: We Connect
+### Links 5: We Connect
 - https://www.volkswagen.de/de/konnektivitaet-und-mobilitaetsdienste/volkswagen-apps.html
 - https://www.volkswagen.de/de/konnektivitaet-und-mobilitaetsdienste/konnektivitaet/we-connect-id.html
 - https://compatibility.volkswagen.com/de/de/index.html
@@ -32,23 +43,12 @@ Information about the software of and software updates for the Volkswagen ID. se
 - https://vwid.vwgroup.io/landing-page <-- Create or login to VW ID Connect (**main**)
 - https://www.volkswagen.de/de/konnektivitaet-und-mobilitaetsdienste/we-charge.html <-- Create or login to VW ID Connect (partial)
 
-### Links 4: Activate We Connect
+### Links 6: Activate We Connect
 - https://www.youtube.com/watch?v=0fz1kPw9gaI , VW ID3 ID4: Einrichtungsassistent, Telefon koppeln, Sender abspeichern, We Connect und mehr. By: Fahrzeugfunktionen Einfach Erklärt.
 - https://www.youtube.com/watch?v=5oTN67vK2aA , VW ID3 und ID4: Kurzvorstellung VW App, Was kann sie alles?. By: Der Familientester.
 - https://www.youtube.com/watch?v=Ze3sfe-r7pA , Volkswagen WeConnect ID App 1.26.0 für Apple iOS die Fernsteuerung für dein Auto im Review. By: elektrologisch.
 - https://www.youtube.com/watch?v=Xn0hXYiBzPA , Four steps to activate your VW account and the We Connect ID. App. By: Volkswagen News.
 - https://www.youtube.com/watch?v=CLRp6aMSk4U , Volkswagen Car-Net On The Volkswagen ID.4, Volkswagen Canada. By: Owasco Volkswagen.
-
-### Links 5: Volkswagen VIN check
-- https://www.volkswagen.com.au/app/locals/owners-service/service-campaigns-recalls , Service Campaigns and Recalls. For Europe and rest of world?. Accepts only "WV..." VINs.
-- https://www.vw.com/en/recalls.html , Recall / Service Campaign Lookup. For Americas only? Does not accept all "WV..." VINs. Accepts "3VW..." VIN.
-- https://www.volkswagen-dubai.com/en/owners/recall-campaign.html , Do not use. Certain models produced between the years 2007 and 2014 are being recalled due to issues relating to airbags.
-- https://www.vindecoder.pl/ VIN Decoder
-- https://www.youtube.com/watch?v=kQEb7nDm_2o  nextnews: Rabattschlacht beginnt, VWs Software-Versagen, Laute E-Autos, THG Turbulenzen. By: nextmove.
-
-### Links 6: We Charge e-Routenplaner
-- https://www.volkswagen.de/de/elektrofahrzeuge/laden-und-reichweite/routenplaner.html
-- https://www.volkswagen.de/de/konnektivitaet-und-mobilitaetsdienste/we-charge.html
 
 ## 12V battery replacement
 - When does the 12V battery need to be replaced/upgraded? (for which update?) --> The 12V battery will be replaced before the installation of ID. Software 2.4 by a service technician in an auto repair shop
