@@ -1,6 +1,9 @@
 # volkswagen
 Information about the software of and software updates for the Volkswagen ID. series electric vehicles (BEVs, e.g. VW ID.3, ID.4, etc.)
 
+See also:
+- https://github.com/mendel5/car
+
 ## Questions
 - What is the difference between VW Connect and VW Car-Net?
 
