@@ -19,7 +19,15 @@ See also:
 - https://www.volkswagen.de/de/elektrofahrzeuge/laden-und-reichweite/routenplaner.html
 - https://www.volkswagen.de/de/konnektivitaet-und-mobilitaetsdienste/we-charge.html
 
-### Links 3: Software versions
+### Links 3a: Software updates
+- via elektrologisch.ch
+- https://www.elektrologisch.ch/
+- https://www.elektrologisch.ch/volkswagen-i-want-ota/
+- https://www.elektrologisch.ch/volkswagen-ota-updates-3-2-1-und-3-7/
+- https://www.elektrologisch.ch/volkswagen-id-software-3-2/
+- https://www.elektrologisch.ch/vollstaendige-fahrzeugausstattung-anzeigen/
+
+### Links 3b: Software versions
 - https://www.meinid.com/wiki/lexicon/8-software-versionen/
 - https://www.youtube.com/watch?v=h0hvBcRQwhM , Volkswagen Software 3.0 - So bekommt man das Update. By: Technokratie. `TPI 2068680/4`.
 - https://lichtgriff.de/id-4-und-nur-noch-elektrisch/id-software/ , ID Software und Update Odyssee mit Happy End. (Volkswagen ID.4, von Software 2.1 auf 3.0, TPI)
