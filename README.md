@@ -23,9 +23,9 @@ See also:
 - via elektrologisch.ch
 - https://www.elektrologisch.ch/
 - https://www.elektrologisch.ch/volkswagen-i-want-ota/
+- https://www.elektrologisch.ch/vollstaendige-fahrzeugausstattung-anzeigen/
 - https://www.elektrologisch.ch/volkswagen-ota-updates-3-2-1-und-3-7/
 - https://www.elektrologisch.ch/volkswagen-id-software-3-2/
-- https://www.elektrologisch.ch/vollstaendige-fahrzeugausstattung-anzeigen/
 
 ### Links 3b: Software versions
 - https://www.meinid.com/wiki/lexicon/8-software-versionen/
