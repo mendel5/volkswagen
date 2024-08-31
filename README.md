@@ -333,7 +333,7 @@ Source: https://www.youtube.com/watch?v=NXncaCoah44 , Ausführliches Review der 
 ### Example 13
 Volkswagen ID.7 Tourer
 
-ID. Software: (not visible)
+ID. Software: 5.0 (visible in different menu)
 
 Systeminformationen:
 - Teilenummer Gerät: 10C035816B
